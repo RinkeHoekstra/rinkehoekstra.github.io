@@ -1,0 +1,41 @@
+@import url(http://fonts.googleapis.com/css?family=IM+Fell+English+SC|IM+Fell+English:400,400italic);
+
+body {
+  font-family: 'IM Fell English';
+  background-image: url('8137410_l.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+.well, .well p a {
+  color: black;
+}
+
+p {
+  font-family: 'IM Fell English';
+  font-size: 140%;
+}
+
+p.cast {
+  font-family: 'IM Fell English SC';
+}
+
+h1, h2, h3, h4 {
+  font-family: 'IM Fell English SC';
+}
+
+h1 {
+  font-size: 200px; 
+    color: #F20000;
+    text-align: center;
+}
+
+h3 {
+  font-size: 45px;
+}
