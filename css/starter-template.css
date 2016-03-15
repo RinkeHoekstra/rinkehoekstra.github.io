@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,100italic,300italic,400italic,500,500italic);
+
+body {
+  font-family: "Roboto", sans-serif;
+  padding-top: 50px;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+}
+
+p.lead {
+  font-weight: 100;
+}
+
+p.right{
+  text-align: right;
+}
+
+strong {
+  font-weight: 400;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: justify;
+
+}
